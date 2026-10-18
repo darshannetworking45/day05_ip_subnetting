@@ -1,0 +1,5 @@
+hostname,ip,device_type,role
+R1-EDGE,192.168.100.1,cisco_ios,router
+SW-CORE-01,192.168.100.11,cisco_ios,core
+SW-ACCESS-01,192.168.100.21,cisco_ios,access
+SW-ACCESS-02,192.168.100.22,cisco_ios,access

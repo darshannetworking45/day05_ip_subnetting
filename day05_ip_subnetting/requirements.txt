@@ -1,0 +1,5 @@
+# Scripts 1-2 only need PyYAML. Script 3 live mode needs the rest.
+PyYAML>=6.0
+netmiko>=4.3.0
+ntc-templates>=6.0.0
+textfsm>=1.1.3

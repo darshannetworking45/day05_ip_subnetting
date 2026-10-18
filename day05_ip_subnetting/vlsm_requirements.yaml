@@ -1,0 +1,9 @@
+# VLSM design input - 'hosts' = usable addresses needed (include the gateway)
+base_network: 192.168.10.0/24
+requirements:
+  - {name: Sales,        hosts: 60}
+  - {name: Engineering,  hosts: 28}
+  - {name: Management,   hosts: 10}
+  - {name: Guest-WiFi,   hosts: 45}
+  - {name: WAN-Link-1,   hosts: 2}
+  - {name: WAN-Link-2,   hosts: 2}

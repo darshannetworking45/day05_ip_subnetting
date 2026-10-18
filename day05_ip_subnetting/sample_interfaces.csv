@@ -1,0 +1,8 @@
+hostname,interface,ip_cidr
+R1-EDGE,GigabitEthernet0/0,10.1.1.1/24
+R1-EDGE,GigabitEthernet0/1,10.1.1.1/24
+R1-EDGE,GigabitEthernet0/2,10.1.1.129/25
+SW-CORE-01,Vlan10,10.10.10.2/24
+SW-ACCESS-01,Vlan10,10.10.10.3/24
+SW-ACCESS-02,Vlan10,10.10.10.3/24
+R1-EDGE,Loopback0,1.1.1.1/32
